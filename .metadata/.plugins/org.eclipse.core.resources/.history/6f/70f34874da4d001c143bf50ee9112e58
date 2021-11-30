@@ -1,0 +1,12 @@
+package com.TE.String;
+
+public class ObjectHashToStringetc 
+{
+	int id;
+
+public ObjectHashToStringetc(int id) {
+	
+	this.id = id;
+}
+
+}

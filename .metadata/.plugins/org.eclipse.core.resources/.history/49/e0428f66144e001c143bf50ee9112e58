@@ -1,0 +1,9 @@
+package com.TY.arraypractise1;
+
+public class OtherMethods 
+{
+public static void main(String[] args)
+{
+	String s=new();
+}
+}

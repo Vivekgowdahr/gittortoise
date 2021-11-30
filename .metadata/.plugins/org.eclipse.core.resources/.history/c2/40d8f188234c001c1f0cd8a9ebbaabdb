@@ -1,0 +1,12 @@
+package com.TechnoElevate.Abstract;
+
+public abstract class Dog 
+{
+abstract void barks();
+abstract void eats();
+abstract void bites();
+public void poop()
+{
+System.out.println("it poops");	
+}
+}

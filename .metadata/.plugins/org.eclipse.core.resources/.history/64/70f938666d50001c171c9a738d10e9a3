@@ -1,0 +1,9 @@
+package com.TY.OOP;
+
+public class Result {
+	private String name;
+	private double percentage;
+	private String Reselt;
+	private int Standard;
+
+}

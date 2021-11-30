@@ -1,0 +1,11 @@
+package com.TechnoElevate.Abstract;
+
+public class Test2 extends Test
+{
+public void m1() 
+{
+	super.m1();
+	System.out.println("From Test2");
+	
+}
+}

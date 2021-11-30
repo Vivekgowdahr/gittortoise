@@ -1,0 +1,10 @@
+package com.techno.inheritance;
+
+public class MethodOverriding 
+{
+	void test(int x,int y)
+	{
+		
+	}
+
+}

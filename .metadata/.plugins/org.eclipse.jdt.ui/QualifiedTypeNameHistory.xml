@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.techno.Accesspecifier.Method2"/>
+    <fullyQualifiedTypeName name="com.techno.Accesspecifier.Method"/>
+    <fullyQualifiedTypeName name="com.techno.Accesspecifier.ChangingTheNoPara"/>
+    <fullyQualifiedTypeName name="com.techno.Accesspecifier.Phone"/>
+    <fullyQualifiedTypeName name="com.techno.Accesspecifier.SmartPhone"/>
+    <fullyQualifiedTypeName name="com.techno.Multilevel.Watsapp"/>
+    <fullyQualifiedTypeName name="com.techno.Multilevel.MessageRead"/>
+    <fullyQualifiedTypeName name="com.techno.Multilevel.MessageRecived"/>
+    <fullyQualifiedTypeName name="com.techno.Encapsulation.Admin"/>
+    <fullyQualifiedTypeName name="com.techno.Encapsulation.Employee"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="com.TechNo.OverRidi.Activa"/>
+    <fullyQualifiedTypeName name="com.TechNo.OverRidi.Elect"/>
+    <fullyQualifiedTypeName name="com.TechNo.OverRidi.OR2"/>
+    <fullyQualifiedTypeName name="com.TechNo.OverRidi.OR1"/>
+    <fullyQualifiedTypeName name="com.TechNo.HasARelation.Processor"/>
+    <fullyQualifiedTypeName name="com.TechNo.HasARelation.HardDisk"/>
+    <fullyQualifiedTypeName name="com.TechNo.HasARelation.Operatings"/>
+    <fullyQualifiedTypeName name="com.TechNo.HasARelation.Battery"/>
+    <fullyQualifiedTypeName name="com.TE.polymorphism.Test"/>
+    <fullyQualifiedTypeName name="com.TE.polymorphism.Demo"/>
+    <fullyQualifiedTypeName name="javax.swing.text.StyledEditorKit.ForegroundAction"/>
+    <fullyQualifiedTypeName name="com.TechNo.Assignment.Elements2"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="com.TE.Exception.Throws"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="com.TE.Exception.CustomeException"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.TY.arrayImpProgram.ArraySorting"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.TY.OOP.Result"/>
+    <fullyQualifiedTypeName name="com.TechNo.HasARelation.Laptop"/>
+    <fullyQualifiedTypeName name="com.TY.OOP.Chocolate"/>
+</qualifiedTypeNameHistroy>

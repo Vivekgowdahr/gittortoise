@@ -1,0 +1,12 @@
+package com.TE.Exception;
+
+public class Throws 
+{
+public void bushan() {
+	System.out.println("I didnt do it ");
+	throw new ArrayIndexOutOfBoundsException();
+}
+public static void main(String[] args) {
+	
+}
+}

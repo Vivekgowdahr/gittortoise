@@ -1,0 +1,9 @@
+package com.techno.inheritance;
+
+public class Overridden
+{
+	void test(int x,int y)
+	{
+		
+	}
+}
