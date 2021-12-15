@@ -1,0 +1,21 @@
+public class p2
+{
+static int x=10;
+inty
+static void method1()
+{
+
+}
+void method 2()
+{
+
+}
+public static String main (String [] args)
+{
+p2 obj=new a();
+p2 obj=new b();
+p2.x=100;
+System.out.println(b.x);
+}
+
+}
