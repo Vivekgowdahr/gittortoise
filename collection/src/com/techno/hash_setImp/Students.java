@@ -1,7 +1,6 @@
 package com.techno.hash_setImp;
 
 public class Students {
-
 	int roolNumber;
 	String name;
 	int marks;
@@ -16,15 +15,11 @@ public class Students {
 		return "Students [roolNumber=" + roolNumber + ", name=" + name + ", marks=" + marks + "]";
 	}
 	@Override
-	public int hashCode() {
-		
+	public int hashCode() {	
 		return super.hashCode();
 	}
 	@Override
-	public boolean equals(Object obj) {
-		
+	public boolean equals(Object obj) {	
 		return super.equals(obj);
-	}
-	
-	
+	}	
 }

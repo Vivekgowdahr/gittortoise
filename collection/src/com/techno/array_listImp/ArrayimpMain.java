@@ -13,14 +13,16 @@ public class ArrayimpMain {
 		list.add(50);
 		list.add(60);
 		list.remove(1);
-		System.out.println(list.get(4));
-		Iterator iterator = list.iterator();//calling iterator list will b the name given wile creating the object
-		while (iterator.hasNext()) {
-			System.out.println(iterator.next());
+		System.out.println(list);
+		//Collections.sort(null, null);
+//		System.out.println(list.get(4));
+//		Iterator iterator = list.iterator();//calling iterator list will b the name given wile creating the object
+//		while (iterator.hasNext()) {
+//			System.out.println(iterator.next());
 
 		}
 
 		// System.out.println(list);
 
 	}
-}
+//}

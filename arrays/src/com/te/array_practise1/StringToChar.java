@@ -2,7 +2,7 @@ package com.te.array_practise1;
 
 public class StringToChar {
 	public static void main(String[] args) {
-		String s = "I wil get above average";// declaring of String
+		String s = "I will get above average";// declaring of String
 		char[] A = new char[s.length()];// changed string to array
 		for (int i = 0; i < s.length(); i++)// for loop iteration
 		{

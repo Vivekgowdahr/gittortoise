@@ -2,7 +2,7 @@ package com.te.array_imp_program;
 
 public class Swapping {
 	public static void main(String[] args) {
-		int[] a = { 1, 2, 3, 4, 5, 6,7,8,9,10,11,12,13,14 };
+		int[] a = { 1, 2, 3, 4, 5, 6,7,52,8,9,10,11,12,13,14 };
 	int swap=a[0];
 		for (int i = 0; i < a.length; i++) {
 			

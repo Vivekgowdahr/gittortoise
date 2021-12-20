@@ -1,11 +1,11 @@
 package com.te.array_imp_program;
 
-import java.util.Iterator;
-
 public class ArraySorting 
-{
+{  
 	public static void main(String[] args) 
 	{
+		String s1="vivek";
+		s1="haris";
 	int[] a = { 10, 20, 60, -259, 6225, 32556, 236, 62, 15, 0, 10 };
 		System.out.println("The length of the array is " + a.length);
 		for (int i = 0; i < a.length; i++) {

@@ -4,6 +4,7 @@ import java.util.Arrays;
 import java.util.Iterator;
 
 public class MyArrayList {
+	
 	Object[] array;
 	int position;
 
