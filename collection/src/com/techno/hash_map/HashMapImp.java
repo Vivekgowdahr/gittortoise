@@ -11,10 +11,10 @@ public class HashMapImp {
 		hashMap.put(2, "Vivek");
 		hashMap.put(3, "Harish");
 		hashMap.put(2, "Sunitha");
-		Set<Integer> keySet = hashMap.keySet();
-		for (Integer family : keySet)
-			System.out.println("key" + family + ", value" + hashMap.get(family));
-		Set<Entry<Integer, String>> entrySet = hashMap.entrySet();
+//		Set<Integer> keySet = hashMap.keySet();
+//		for (Integer family : keySet)
+//			System.out.println("key :" + family + ", value :" + hashMap.get(family));
+	Set<Entry<Integer, String>> entrySet = hashMap.entrySet();
 		for (Entry<Integer, String> s : entrySet)
 			System.out.println(s);
 
