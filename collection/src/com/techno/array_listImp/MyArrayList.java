@@ -4,7 +4,6 @@ import java.util.Arrays;
 import java.util.Iterator;
 
 public class MyArrayList {
-	
 	Object[] array;
 	int position;
 
@@ -24,9 +23,7 @@ public class MyArrayList {
 		Object[] temp = new Object[((array.length * 3) / 2)];
 		for (int i = 0; i < array.length; i++) {
 			temp[i] = array[i];
-
 		}
-
 		array = temp;
 	}
 
@@ -34,9 +31,7 @@ public class MyArrayList {
 		return array[index];
 	}
 
-	public void remove(int index)
-
-	{
+	public void remove(int index) {
 		for (int i = index; i < position; i++) {
 			position--;
 		}
@@ -61,7 +56,6 @@ public class MyArrayList {
 
 		@Override
 		public boolean hasNext() {
-
 			return (index < position) ? true : false;
 		}
 
@@ -70,7 +64,5 @@ public class MyArrayList {
 
 			return array[index++];
 		}
-
 	}
-
 }
